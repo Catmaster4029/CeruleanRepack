@@ -1,0 +1,12 @@
+{
+    "name": "Oxygen",
+    "Description": "Volatile element which is the base of many compounds, such as scrap or water.",
+    "Flammability": 1,
+    "viscosity": 0,
+    "temperature": 0.1,
+    "color": "ebeef5",
+    "gas" : true,
+    "gasColor" : "ffffff",
+    "coolant" : false
+
+}

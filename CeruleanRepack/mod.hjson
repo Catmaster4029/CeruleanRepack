@@ -1,0 +1,10 @@
+{
+  "name": "cerulean-repack",
+  "displayName": "CeruleanRepack",
+  "author": "CeruleanBlue",
+  "description": "A mod adding various vannila+ features, new materials and quality of life changes.",
+  "version": "1.0",
+  "minGameVersion": "146",
+  "dependencies": [],
+  "hidden": false
+}
